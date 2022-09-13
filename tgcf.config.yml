@@ -22,7 +22,7 @@ forwards:
   # add more sources if you wish
 
 past:
-  delay: 0 # wait for 3s after forwarding each message
+  delay: 1 # wait for 3s after forwarding each message
 
 
 
