@@ -12,7 +12,6 @@ live:
 past:
   delay: 1
 plugins: 
-  filter:
     files: 
        whitelist: [audio,gif,video,video_note,sticker,contact,photo,document,nofile]
       
