@@ -6,9 +6,7 @@ forwards:
   offset: 0
   #end: 0
 show_forwarded_from: false
-live:
-  delete_sync: false
-  delete_on_edit: null
+
 past:
   delay: 1
 
