@@ -2,7 +2,7 @@ admins: []
 forwards:
 - source: -1001619773080
   dest:
-  - -1001717126903
+  - -1001654480799
   offset: 0
   #end: 0
 show_forwarded_from: false
@@ -11,7 +11,5 @@ live:
   delete_on_edit: null
 past:
   delay: 1
-plugins: 
-    files: 
-       whitelist: [audio,gif,video,video_note,sticker,contact,photo,document,nofile]
+
       
