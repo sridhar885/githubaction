@@ -11,8 +11,8 @@ live:
   delete_on_edit: null
 past:
   delay: 1
-plugins: {
-   files:
-
-      whitelist: [audio,gif,video,video_note,sticker,contact,photo,document,nofile]
-      }
+plugins: 
+  filter:
+    files: 
+       whitelist: [audio,gif,video,video_note,sticker,contact,photo,document,nofile]
+      
