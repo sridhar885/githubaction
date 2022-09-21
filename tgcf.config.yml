@@ -3,7 +3,7 @@ admins:
 forwards:
 - source: -1001706470228
   dest:
-  - -1001706470228
+  - -1001700124411
   offset: 63026
   #end: 0
 show_forwarded_from: false
