@@ -1,10 +1,10 @@
 admins:
 - 1957520372
 forwards:
-- source: -1001706470228
+- source: -1001535383919
   dest:
-  - -1001700124411
-  offset: 71383
+  - -1001613401355
+  offset: 8644
   end: 0
 show_forwarded_from: false
 live:
