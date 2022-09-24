@@ -4,12 +4,12 @@ forwards:
 - source: -1001706470228
   dest:
   - -1001700124411
-  offset: 72299
-  #end: 0
+  offset: 74185
+  end: 0
 show_forwarded_from: false
 live:
   delete_sync: false
   delete_on_edit: null
 past:
-  delay: 1
+  delay: 1.0
 plugins: {}
